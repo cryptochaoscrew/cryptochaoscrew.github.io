@@ -1,0 +1,5 @@
+baseURL = 'https://cryptochaoscrew.io/'
+languageCode = 'en-us'
+title = 'Crypto Chaos Crew'
+theme = 'PaperMod'
+
