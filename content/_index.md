@@ -4,4 +4,13 @@ draft = false
 title = 'Home'
 +++
 
-Testing....
+```bash
+$ whoami
+crypto_chaos_crew
+
+$ cat status.txt
+[ ] Initializing...
+[] Loading chaos protocols...
+[*] Site under construction
+[+] Coming Soon
+```
